@@ -7,7 +7,7 @@ This repository contains all the general topics concepts that are necessary for 
 
 **Visit Here to see the all concepts Of Backend Using Django By Meta**
 1-Introduction to Backen:
-2-Complete Details of API: 
+2-Complete Details of API:
 3-All the Concepts About Database:
 4-All the Concepts about Versioning:
 5-Django Complete Course:
