@@ -12,19 +12,25 @@ This repository contains all the general topics concepts that are necessary for 
 <https://github.com/codebyalisher/Introduction-to-Backend>
 
 2-Complete Details of API:
+
 <https://github.com/codebyalisher/Django-Backend-Development-API-Material>
 
 3-All the Concepts About Database:
+
 <https://github.com/codebyalisher/Database--All-Concepts>
 
 4-All the Concepts about Versioning:
+
 <https://github.com/codebyalisher/Versioning-Control-Concepts>
 
 5-Django Complete Course:
+
  coming soon.....
  
 6-Data Structure and Algorithm(DSA):
+
 coming soon......
 
 7-Coding Interview Preparation:
+
 coming soon......
