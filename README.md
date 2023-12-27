@@ -25,12 +25,10 @@ This repository contains all the general topics concepts that are necessary for 
 
 5-Django Complete Course:
 
- coming soon..... 
+(https://github.com/codebyalisher/Djanog-Complete-Notes)
  
 6-Data Structure and Algorithm(DSA):
 
 coming soon......
 
-7-Coding Interview Preparation:
 
-coming soon......
